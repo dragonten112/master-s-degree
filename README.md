@@ -39,12 +39,11 @@ pip install pandas fake-useragent stem requests python-dateutil pillow
 
 ### 📁 Folder Setup
 
-Make sure to include a `loading.gif` in the project directory:
+Make sure to include your CSV file in the project directory:
 
 ```
 project-folder/
 ├── app.py
-├── loading.gif
 ├── sample.csv
 ```
 
